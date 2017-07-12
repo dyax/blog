@@ -1,4 +1,4 @@
-baseURL = "http://dyax.github.io/blog"
+baseURL = "https://dyax.github.io/blog"
 languageCode = "en-us"
 title = "Dyax Blog"
 theme = "beautifulhugo"
