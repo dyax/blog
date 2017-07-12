@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dyax Blog</title>
+    <link>http://dyax.github.com/blog/</link>
+    <description>Recent content on Dyax Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2017 13:38:22 -0400</lastBuildDate>
+    
+	<atom:link href="http://dyax.github.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wslbackup</title>
+      <link>http://dyax.github.com/blog/post/wslbackup/</link>
+      <pubDate>Tue, 11 Jul 2017 13:38:22 -0400</pubDate>
+      
+      <guid>http://dyax.github.com/blog/post/wslbackup/</guid>
+      <description>&lt;h1 id=&#34;windows-subsystem-for-linux-backup&#34;&gt;Windows Subsystem for Linux Backup&lt;/h1&gt;
+
+&lt;p&gt;Here is one solution mostly staying in the Windows Subsystem for Linux&lt;br /&gt;
+(WSL). Shown from the command line for easier understanding. In practice&lt;br /&gt;
+I would automate this from a script and place a datecode in the filenames.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
